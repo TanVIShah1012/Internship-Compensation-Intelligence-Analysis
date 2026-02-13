@@ -1,4 +1,5 @@
 Internship Compensation Intelligence Analysis
+
 📌 Overview
 
 This project analyzes 649 U.S. data-related internship listings to benchmark compensation trends and evaluate the impact of geography, role type, company rating, and remote status on salary variation.
